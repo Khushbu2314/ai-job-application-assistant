@@ -1,0 +1,10 @@
+SAMPLE JOB TITLE
+Junior Python Developer
+
+SAMPLE JOB DESCRIPTION
+We are looking for a junior Python developer with knowledge of Python, Flask, REST APIs, SQL, Git, debugging, and clear communication. The candidate should be willing to learn and collaborate with a team.
+
+SAMPLE CANDIDATE PROFILE
+I have one year of experience as a software developer. I have worked with Python, Flask, MySQL, HTML, CSS, JavaScript, and REST API integration. I contributed to a web-based utility platform and have experience debugging application issues.
+
+These sample inputs are for testing only. Use accurate candidate information when creating a real application draft.

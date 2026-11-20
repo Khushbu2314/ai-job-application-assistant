@@ -98,6 +98,7 @@ Use your own accurate information for a real draft. Do not claim a skill or expe
 ```text
 ai_job_application_assistant/
 ├── app.py             # Streamlit app and analysis logic
+├──prompts.md          # Prompts added
 ├── requirements.txt   # Python libraries needed to run the app
 ├── sample_data.txt    # Example job description and candidate profile
 ├── README.md          # Project overview and setup guide
